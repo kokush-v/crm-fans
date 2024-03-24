@@ -26,9 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+# backend
+
 ## Installation
 
 ```bash
+$ cd backend
 $ npm install
 ```
 
@@ -85,6 +88,7 @@ An Electron application with React and TypeScript
 ### Install
 
 ```bash
+$ cd frontend
 $ npm install
 ```
 
